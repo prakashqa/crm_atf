@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CrmLoginData>
+	<logindata id="set1">
+		<username>admin</username>
+		<pword>admin</pword>
+		<accountName>Prakash</accountName>
+		<accountEmail>prakash123@mailinator.com</accountEmail>
+		<street>abcd</street>
+		<city>hyderabad</city>
+		<state>telangana</state>
+		<country>india</country>
+	</logindata>
+</CrmLoginData>
